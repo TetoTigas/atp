@@ -1,0 +1,4 @@
+Os exercicícios são compilados por aulas
+ex:
+    na aula 1 o primeiro exercicício do slide de aula é o "exaula1.c"
+    entretanto ele está compilado como "exa1"
