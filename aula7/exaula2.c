@@ -31,5 +31,5 @@ int main(){
     {   
         printf("%d || ", vet3[i]);
     }
-    printf("\n7");
+    printf("\n");
 }
