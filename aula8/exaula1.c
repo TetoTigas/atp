@@ -14,7 +14,7 @@ int main(){
     }
     for(int lines = 0; lines < 10; lines++)
     {
-        for (int columns = 0; columns < 3; columns++)
+        for (int columns = 0; columns < 3; columns+
         {
             if(x[lines][columns] < menor)
             {
